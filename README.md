@@ -36,7 +36,7 @@
 
 
 ### Contact Me
-[<img align="left" height="30" src="https://github.com/Jay-Surana/Jay-Surana/blob/main/images/discord.png">](https://discord.gg/invite/qAs3Zr2cnU)
+[<img align="left" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.gg/invite/qAs3Zr2cnU)
 
 
 <!--
