@@ -29,13 +29,13 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
 
-<h3>Stats</h3>
+### Stats
 <img align="left" alt="Jay's Github Stats" src="https://github-readme-stats-git-master.jay-surana.vercel.app/api?username=Jay-Surana&count_private=true&show_icons=true&hide=prs&theme=dark">
 
+
 ### Contact Me
-[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/images/discord.png">](https://discord.gg/invite/qAs3Zr2cnU)
+[<img align="left" height="30" src="https://github.com/Jay-Surana/Jay-Surana/blob/main/images/discord.png">](https://discord.gg/invite/qAs3Zr2cnU)
 
 
 <!--
