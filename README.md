@@ -35,7 +35,7 @@
 <img align="left" alt="Jay's Github Stats" src="https://github-readme-stats-git-master.jay-surana.vercel.app/api?username=Jay-Surana&count_private=true&show_icons=true&hide=prs&theme=dark">
 
 ### Contact Me
-
+[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/images/discord.png">](https://discord.gg/invite/qAs3Zr2cnU)
 
 
 <!--
