@@ -34,7 +34,8 @@
 
 ### Stats
 <img align="left" alt="Jay's Github Stats" src="https://github-readme-stats-git-master.jay-surana.vercel.app/api?username=Jay-Surana&count_private=true&show_icons=true&hide=prs&theme=dark">
-![Profile Views](https://komarev.com/ghpvc/?username=JaySurana&color=blueviolet)
+
+[Profile Views](https://komarev.com/ghpvc/?username=JaySurana&color=blueviolet)
 
 ### Contact Me
 [<img align="left" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.gg/invite/qAs3Zr2cnU)
