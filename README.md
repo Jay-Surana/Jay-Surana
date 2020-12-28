@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning `Python`.
 - 🤔 I’m looking for help with Music bot.
 - 💬 Ask me about Tech.
-- 📫 How to reach me: Discord - ``! Real#4810``
+- 📫 How to reach me: Discord - `! Real#4810`
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Music and Games.
 
@@ -34,7 +34,7 @@
 
 ### Stats
 <img align="left" alt="Jay's Github Stats" src="https://github-readme-stats-git-master.jay-surana.vercel.app/api?username=Jay-Surana&count_private=true&show_icons=true&hide=prs&theme=dark">
-
+![Profile Views](https://komarev.com/ghpvc/?username=JaySurana&color=blueviolet)
 
 ### Contact Me
 [<img align="left" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.gg/invite/qAs3Zr2cnU)
