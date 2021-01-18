@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Sparta Bot](https://top.gg/bot/731763013417435247).
 - 🌱 I’m currently learning `Python`.
-- 🤔 I’m looking for help with Music bot.
+- 🤔 I’m looking for help with front end.
 - 💬 Ask me about Tech.
 - 📫 How to reach me: Discord - [Real#2158](https://discordapp.com/users/733532987794128897)
 - 😄 Pronouns: He/His
