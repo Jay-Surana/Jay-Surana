@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning `Python`.
 - 🤔 I’m looking for help with front end.
 - 💬 Ask me about Tech.
-- 📫 How to reach me: Discord - [Real#2434](https://discordapp.com/users/789173895756382228)
+- 📫 How to reach me: Discord - [_reall.](https://discordapp.com/users/849938756043145236)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Music and Games.
 
